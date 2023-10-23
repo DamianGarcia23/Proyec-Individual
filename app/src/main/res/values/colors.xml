@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorButtonBackground">#F20808</color> <!-- Color de fondo del botón -->
+    <color name="colorButtonText">#FFFFFF</color> <!-- Color del texto del botón -->
+
+
+</resources>
+
